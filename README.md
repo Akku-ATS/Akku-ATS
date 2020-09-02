@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Akansha Pathak 
+Jr. Software Developer in Asian Technology Hub
 
 <!--
 **Akku-ATS/Akku-ATS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
